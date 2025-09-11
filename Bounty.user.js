@@ -21,7 +21,7 @@
 // @downloadURL https://raw.githubusercontent.com/sportclub2010-lang/Bounty-Campaign/main/Bounty.user.js
 // ==/UserScript==
 alert("test2");
-
+dgfdgfdgfdgdfhfhfhgfhgfhgfhgf
 // about:config dom.allow_scripts_to_close_windows = true
 
 var SomeTweet = 'репост'; // В профілі кампанії є чужий твіт, ретрвіт... в коді є слово 'репост'
