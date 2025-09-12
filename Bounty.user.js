@@ -22,7 +22,7 @@
 // ==/UserScript==
 
 // about:config dom.allow_scripts_to_close_windows = true
-
+dddd
 var SomeTweet = 'репост'; // В профілі кампанії є чужий твіт, ретрвіт... в коді є слово 'репост'
 
 var sleep = 2000;
