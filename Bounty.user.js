@@ -19,6 +19,7 @@
 // @grant       GM_setClipboard
 // @updateURL   https://raw.githubusercontent.com/sportclub2010-lang/Bounty-Campaign/main/Bounty.user.js
 // @downloadURL https://raw.githubusercontent.com/sportclub2010-lang/Bounty-Campaign/main/Bounty.user.js
+
 // ==/UserScript==
 
 // about:config dom.allow_scripts_to_close_windows = true
