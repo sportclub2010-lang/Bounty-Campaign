@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name        Bounty Campaign
-// @version     1.1
+// @version     1.2
 // @namespace   1
 // @author      sportclub2010
 // @include     https://x.com*
